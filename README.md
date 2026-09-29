@@ -41,6 +41,25 @@
 
 ---
 
+## English
+
+**lhg-trend — 30-day trend scan.** Scans what's hot across Chinese platforms in the last 30 days, ranks by cross-platform buzz, and answers: is this topic actually hot, why, and is it too late to jump in. Install: `npx skills add lhg-skills/lhg-trend`.
+
+---
+
+## FAQ
+
+**Q：lhg-trend 有什么用？**
+适合的场景：做内容选题前想知道某个话题近 30 天在全网火不火、为什么火、现在追还来不来得及。
+
+**Q：免费吗？怎么安装？**
+开源免费（MIT，可商用、保留署名）。安装：`npx skills add lhg-skills/lhg-trend`，或 clone 仓库把 `SKILL.md` 放进对应平台的 skills 目录。
+
+**Q：支持哪些 AI 平台？**
+平台中立纯 Markdown 流程描述，Claude Code、Codex、豆包智能体、Workbuddy、扣子、Trae 等支持 Markdown 指令的环境都可用。更多 skill 见 [lhg-skills 组织主页](https://github.com/lhg-skills)。
+
+---
+
 ## lhg-skills 矩阵
 
 刘洪光出品的中文 Agent Skills，全开源：
